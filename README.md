@@ -18,7 +18,5 @@ TypeScript, TailWind CSS, SASS, Redux, Redux Toolkit, Redux-Saga, React DnD, Web
 ---
 
 #### Со мной можно связаться:
- 💬 почта: i@dlatyshev.ru\
- 💬 тел: +79031056707\
  💬 Telegram: @ddlatyshev\
 
